@@ -1,0 +1,12 @@
+#grid-general{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1vw;
+    padding: 2vh;
+}
+
+.book-image img{
+    height: 700px;
+}
+
